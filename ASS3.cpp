@@ -142,6 +142,7 @@ int main() {
         cout << "8) Swap nodes" << endl;
         cout << "9) Longest path" << endl;
         cout << "10) Exit" << endl;
+        cout << "\n\nEnter your choice:";
         cin >> choice;
 
         switch (choice) {
